@@ -4,4 +4,7 @@
 
 ### 👉 [Profile](/profile)
 
-![](https://im5.ezgif.com/tmp/ezgif-5-76b863ea45.gif)
+![](https://blog.kakaocdn.net/dn/xkAi8/btrZB25a6Q4/Uv9xvKvyNTNG0iK81OKNSk/img.gif)
+
+
+### 👉 [Sidebar](/sidebar)
