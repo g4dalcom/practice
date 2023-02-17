@@ -4,7 +4,9 @@
 
 ### 👉 [Profile](/profile)
 
-![](https://blog.kakaocdn.net/dn/xkAi8/btrZB25a6Q4/Uv9xvKvyNTNG0iK81OKNSk/img.gif)
+![](https://blog.kakaocdn.net/dn/csvUgL/btrZAFJJx0z/lHCyM4iJdpJYe3vCsTb5jK/img.gif)
 
 
 ### 👉 [Sidebar](/sidebar)
+
+![](https://blog.kakaocdn.net/dn/ciq1ZZ/btrZAGPqjOO/K1PC69PNidk7DwnPAADDS0/img.gif)
