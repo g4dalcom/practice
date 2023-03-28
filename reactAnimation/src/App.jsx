@@ -94,7 +94,7 @@ function App() {
         </div>
       </div>
 
-      <div className='w-[400px] mx-auto py-10'>
+      <div className='w-[400px] mx-auto py-5'>
         <h3 className='mb-4 text-2xl font-bold'>Todo List</h3>
         <form onSubmit={submitHandle} className='flex gap-x-4'>
           <input
