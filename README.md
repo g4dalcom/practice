@@ -18,5 +18,5 @@
 - tailwindCSS
 - formkit/auto-animate
 
-![](https://blog.kakaocdn.net/dn/bXF6hf/btr6rxMCuFW/v6AEs7ZYEQ1sG0vi2EpvLk/img.gif)
+![](https://blog.kakaocdn.net/dn/bOJVeE/btr6BB7YnUZ/TPfnIutIlMVubBpX1P9XF0/img.gif)
 
